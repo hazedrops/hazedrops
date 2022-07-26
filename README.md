@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on SmallStore Web Page With React, SCSS, Formix, Yup, Responsive-Carousel, etc.
 - 🌱 I’m currently learning Firebase and reviewing Algorithm and Data structure, especially implementing in JavaScript.
-
+- 🤔 I’m solving CSSBattle challenges everyday.
 
 <!--
 **hazedrops/hazedrops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
